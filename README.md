@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Karthik G</h1>
+<h1 align="center" animation typing="2s steps (40,end)infinite">Hi 👋, I'm Karthik G</h1>
+
 
 
 
