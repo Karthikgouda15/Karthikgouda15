@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack development**
+- 🌱 I’m currently learning **Full Stack development**
 - 👀 i'm intersted in Data Science and Artificial Intelligence
 - 🌱 I'm currently learning @Dr.SMCE Undergad
 
