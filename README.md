@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">Full Stack development</h3>
+<h3 align="center">Profile Overview</h3
 
 
 
