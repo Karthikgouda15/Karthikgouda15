@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀I’m currently learning Full stack web development<br>🌱I’m Interested in Data Science and AIML<br>Currently Undergrad@DR SMCE
+👀I’m currently learning Full stack web development<br>🌱I’m Interested in Data Science and AIML<br>🤔 Exploring new technologies like Next.js, AWS, CI/CD<br>Currently Undergrad@DR SMCE
 
 
 ## 🌐 Socials:
