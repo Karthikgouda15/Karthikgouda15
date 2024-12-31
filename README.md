@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
   <?div>
 
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=karthikgouda15&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karthikgouda15&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgouda15&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
