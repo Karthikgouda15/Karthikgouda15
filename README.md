@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨‍💻 Full-Stack Web Developer | MERN Stack Enthusiast <br>
+👨‍💻 Full-Stack Web Developer <br>
 🛠️ Currently working on full-stack MERN projects <br>
 🌐 Exploring modern tech: AWS, CI/CD, Microservices  <br>
 🌱 Undergraduate @ DR SMCE    
