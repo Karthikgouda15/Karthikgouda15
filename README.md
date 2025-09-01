@@ -10,7 +10,7 @@
 - 🔭 Exploring **AWS, CI/CD, and Microservices**  
 - 🎓 Pursuing **Computer Science @ DR SMCE**  
 - 🌱 Continuous learner, passionate about **scalable applications** and **real-world problem solving**  
-- 🎨 Fun fact: I’m also an **artist & yoga medalist** 🏅  
+  
 
 ---
 
