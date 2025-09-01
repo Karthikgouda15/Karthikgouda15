@@ -1,48 +1,76 @@
-# 💫 About Me:
+# 💫 About Me  
 
-<h1 align="center">Hi 👋, I'm Karthik Gouda</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4F9DDE">Karthik Gouda</span></h1>  
 
+<p align="center">  
+💻 Passionate <b>Full-Stack Developer</b> | 🌐 MERN Enthusiast | 🚀 Exploring Cloud & DevOps  
+</p>  
 
+- 👨‍💻 Currently building **MERN stack projects**  
+- 🔭 Exploring **AWS, CI/CD, and Microservices**  
+- 🎓 Pursuing **Computer Science @ DR SMCE**  
+- 🌱 Continuous learner, passionate about **scalable applications** and **real-world problem solving**  
+- 🎨 Fun fact: I’m also an **artist & yoga medalist** 🏅  
 
-👨‍💻 Full-Stack Web Developer <br>
-🛠️ Currently working on full-stack MERN projects <br>
-🌐 Exploring modern tech: AWS, CI/CD, Microservices  <br>
-🌱 Undergraduate @ DR SMCE    
- 
+---
 
+## 🌐 Connect With Me  
+<p align="center">  
+  <a href="https://instagram.com/karthik_gouda01" target="_blank">  
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>  
+  </a>  
+  <a href="https://linkedin.com/in/kartikagouda15" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>  
+</p>  
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthik_gouda01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikagouda15) 
+# 💻 Tech Stack  
+<p align="center">  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,mysql,bootstrap,jquery,python,npm" />  
+<br/>  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" />  
+</p>  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-<summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-  <?div>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=karthikgouda15&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=karthikgouda15&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgouda15&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🪶 Achievements (GSSOC '24)  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90px"/>  
+</p>  
 
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthikgouda15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikgouda15&theme=tokyonight&hide_border=true&show_icons=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgouda15&theme=tokyonight&hide_border=true" height="150"/>  
+</p>  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgouda15&theme=tokyonight&hide_border=true&layout=compact" height="150"/>  
+</p>  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikgouda15&theme=radical&no-frame=true&margin-w=5"/>  
+</p>  
+
+---
+
+### ✍️ Random Dev Quote  
+<p align="center">  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>  
+</p>  
+
+---
+
+<p align="center">  
+  🚀 *"Code. Learn. Build. Repeat."* 🚀  
+</p>  
