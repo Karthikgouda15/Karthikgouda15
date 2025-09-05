@@ -1,4 +1,4 @@
-# 💫 About Me  
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#4F9DDE">Karthik Gouda</span></h1>  
 
