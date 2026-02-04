@@ -7,7 +7,7 @@
 </p>  
 
 - 👨‍💻 Currently building **MERN stack projects**  
-- 🔭 Exploring **AWS, CI/CD, and Microservices**  
+- 🔭 Exploring **Microsoft Azure, CI/CD, and Microservices**  
 - 🎓 Pursuing **Computer Science @ DR SMCE**  
 - 🌱 Continuous learner, passionate about **scalable applications** and **real-world problem solving**  
   
