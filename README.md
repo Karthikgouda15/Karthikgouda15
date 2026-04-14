@@ -8,6 +8,7 @@
 - 🔭 Exploring **Microsoft Azure, CI/CD, and Microservices**  
 - 🎓 Pursuing **Computer Science @ DR SMCE**  
 - 🌱 Continuous learner, passionate about **scalable applications** and **real-world problem solving**  
+  
 
 ---
 
@@ -32,29 +33,13 @@
 
 ---
 
-## 🪶 Achievements (GSSOC '24)
-
-<p align="center">
-
-<!-- Row 1 -->
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Explorer.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Adventurer.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Trailblazer.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Mountaineer.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Champion.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Innovator.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Legend.png" width="80px"/>
-
-<br/><br/>
-
-<!-- Row 2 -->
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Dragon.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Code%20Luminary.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Git%20Explorer.png" width="80px"/>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Pull%20Expert.png" width="80px"/>
-
-</p>
+## 🪶 Achievements (GSSOC '24)  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90px"/>  
+</p>  
 
 ---
 
@@ -87,3 +72,4 @@
 <p align="center">  
   🚀 *"Code. Learn. Build. Repeat."* 🚀  
 </p>  
+  
