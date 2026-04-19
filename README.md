@@ -1,9 +1,10 @@
 
-<div align="center">
-<!--  ───── Animated Typing Hero ───── -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=800&color=378ADD&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Karthik+Gouda" alt="Hi, I'm Karthik Gouda" />
-<!--  ───── Animated Subtitle ───── -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=20&pause=1000&color=5DCAA5&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Full-Stack+Developer+%7C+MERN+Enthusiast;Cloud+%26+DevOps+Explorer;Open+Source+Contributor+%F0%9F%9A%80"
+
+<h1 align="center">Hi 👋, I'm <span style="color:#4F9DDE">Karthik Gouda</span></h1>  
+
+<p align="center">  
+💻 Passionate <b>Full-Stack Developer</b> | 🌐 MERN Enthusiast | 🚀 Exploring Cloud & DevOps  
+</p>  
 
 - 👨‍💻 Currently building **MERN stack projects**  
 - 🔭 Exploring **Microsoft Azure, CI/CD, and Microservices**  
@@ -11,7 +12,6 @@
 - 🌱 Continuous learner, passionate about **scalable applications** and **real-world problem solving**  
   
 
----
 
 ## 🌐 Connect With Me  
 <p align="center">  
