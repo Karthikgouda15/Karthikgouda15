@@ -29,6 +29,9 @@
 
 ---
 
+## 🧑‍💻 About Me
+
+```json
 {
   "name":     "Karthik Gouda",
   "role":     "Full-Stack Developer",
@@ -57,6 +60,9 @@
   "mantra":   "Code. Learn. Build. Repeat.",
   "hireable": true
 }
+```
+
+---
 
 ## 💻 Tech Stack
 
