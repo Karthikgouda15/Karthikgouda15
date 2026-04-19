@@ -29,18 +29,34 @@
 
 ---
 
-## 🧑‍💻 About Me
+{
+  "name":     "Karthik Gouda",
+  "role":     "Full-Stack Developer",
+  "college":  "DR SMCE — Computer Science",
+  "location": "India 🇮🇳",
 
-```yaml
-name:       Karthik Gouda
-role:       Full-Stack Developer
-college:    DR SMCE  (Computer Science)
-stack:      MERN (MongoDB · Express · React · Node.js)
-exploring:  Microsoft Azure | CI/CD | Microservices
-mantra:     "Code. Learn. Build. Repeat."
-```
+  "currently": {
+    "building":  "MERN stack projects",
+    "learning":  ["Azure", "CI/CD", "Microservices"],
+    "open_to":   "internships & collaborations"
+  },
 
----
+  "stack": {
+    "frontend":  ["React", "HTML", "CSS", "Bootstrap"],
+    "backend":   ["Node.js", "Express"],
+    "database":  ["MongoDB", "PostgreSQL", "MySQL"],
+    "tools":     ["Git", "Postman", "Figma", "AWS"]
+  },
+
+  "fun_facts": [
+    "debug at 2am, ship by 3am 🌙",
+    "coffee-driven development ☕",
+    "GSSoC '24 contributor 🏆"
+  ],
+
+  "mantra":   "Code. Learn. Build. Repeat.",
+  "hireable": true
+}
 
 ## 💻 Tech Stack
 
