@@ -1,32 +1,33 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00C9A7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karthik+Gouda;Full-Stack+Developer;SDE+Aspirant;MERN+Stack+Engineer;Building+Scalable+Systems" />
-</h1>
-
+<!-- 🌌 3D Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:00C9A7,100:4F9DDE&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=28" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Karthik%20Gouda&fontSize=45&color=0:00C9A7,100:4F9DDE&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  💻 Full-Stack Developer | 🚀 SDE Aspirant | ☁️ Cloud & System Design Enthusiast
-</p>
+<!-- ⚡ Typing Animation -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C9A7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;SDE+Aspirant;MERN+Stack+Engineer;Cloud+%26+System+Design+Learner;Building+Scalable+Systems" />
+</h2>
 
+<!-- 🌐 Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/kartikagouda15">
-    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Gouda-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Gouda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
-- 🚀 Full-Stack Developer passionate about building scalable applications  
-- 💻 Strong in MERN Stack & Backend Development  
-- ☁️ Exploring Azure, CI/CD & System Design  
-- 🎯 Targeting SDE Roles in Product-Based Companies  
+```diff
++ 💻 Full-Stack Developer (MERN Stack Specialist)
++ 🚀 Focused on SDE Roles in Product-Based Companies
++ ☁️ Exploring Azure, CI/CD, and Microservices
++ 📚 Strong in DSA + Backend Engineering
++ 🔥 Passionate about building scalable real-world systems
 
 ---
 
