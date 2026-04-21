@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=4F9DDE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Karthik+Gouda;Full-Stack+Developer;SDE+Aspirant;MERN+Stack+Engineer;Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00C9A7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karthik+Gouda;Full-Stack+Developer;SDE+Aspirant;MERN+Stack+Engineer;Building+Scalable+Systems" />
 </h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:00C9A7,100:4F9DDE&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=28" />
+</p>
 
 <p align="center">
   💻 Full-Stack Developer | 🚀 SDE Aspirant | ☁️ Cloud & System Design Enthusiast
@@ -8,10 +12,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/kartikagouda15">
-    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Gouda-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Gouda-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -38,43 +42,43 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-`JavaScript` `Python` `C++`
-
-### 🌐 Frontend
-`React.js` `HTML` `CSS` `Tailwind CSS`
-
-### ⚙️ Backend
-`Node.js` `Express.js`
-
-### 🗄️ Databases
-`MongoDB` `PostgreSQL` `MySQL`
-
-### ☁️ Cloud & Tools
-`Azure` `Git` `GitHub` `Postman` `VS Code`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,mysql,python,cpp,git,github,vscode,postman,azure&theme=dark" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 ServiceMate (Real-Time Service Booking Platform)
-- Built using **MERN Stack + Socket.io + Redis**  
-- Real-time booking & notifications system  
-- Scalable backend architecture  
+### 🔹 ServiceMate (Real-Time Service Platform)
+- ⚡ MERN + Socket.io + Redis  
+- 🔔 Real-time booking & notifications  
+- 📈 Scalable backend architecture  
 
 ### 🔹 Wanderlust (Travel Platform)
-- Full-stack app with authentication & CRUD  
-- REST API integration & secure login system  
-
-👉 *More projects on my repositories*
+- 🌍 Full-stack web app  
+- 🔐 Secure authentication & APIs  
+- 🧩 CRUD + REST architecture  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 3D Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikgouda15&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgouda15&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikgouda15&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgouda15&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikgouda15&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikgouda15&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
@@ -82,28 +86,36 @@
 ## 🏆 Achievements
 
 - 🥇 Contributor at **GSSoC '24**  
-- 🎯 Google Arcade Facilitator Cohort 1  
-- 🧘 National-level Yoga Competitor (2nd Place)  
-- 🎨 State-level Artist (3rd Place)  
+- 🎯 Google Arcade Facilitator  
+- 🥈 National Yoga Competition  
+- 🎨 State-Level Artist  
 
 ---
 
 ## 📈 Current Focus
 
-- 📚 Mastering **DSA (Take U Forward)**  
-- 🏗️ Learning **System Design (HLD + LLD)**  
-- ☁️ Deploying projects on **Azure**  
-- 💡 Building **SDE-level projects**  
+- 📚 DSA (Take U Forward)  
+- 🏗️ System Design (HLD + LLD)  
+- ☁️ Azure Deployments  
+- 🚀 Building SDE-level Projects  
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthikgouda15&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m actively looking for **Internships & SDE Opportunities**.  
-If you’re a recruiter or developer, feel free to connect!
+I’m actively looking for **Internships & SDE Opportunities** 🚀  
+If you're a recruiter or developer, feel free to connect!
 
 ---
 
 <p align="center">
-  🚀 <b>Build Impactful Systems. Solve Real Problems.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:4F9DDE&height=120&section=footer"/>
 </p>
