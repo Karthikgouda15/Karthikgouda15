@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Karthik Gouda</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=4F9DDE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Karthik+Gouda;Full-Stack+Developer;SDE+Aspirant;MERN+Stack+Engineer;Building+Scalable+Apps" />
+</h1>
 
 <p align="center">
   💻 Full-Stack Developer | 🚀 SDE Aspirant | ☁️ Cloud & System Design Enthusiast
@@ -6,10 +8,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/kartikagouda15">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Gouda-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -17,12 +19,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final Year **Computer Science Engineering Student**
-- 💼 Passionate about building **scalable, real-world applications**
-- ⚡ Strong in **MERN Stack + Backend Engineering**
-- ☁️ Currently exploring **Azure, CI/CD, and System Design**
-- 🧠 Practicing **DSA for Product-Based Companies**
-- 🎯 Goal: **SDE Role @ Top Product Companies**
+- 🚀 Full-Stack Developer passionate about building scalable applications  
+- 💻 Strong in MERN Stack & Backend Development  
+- ☁️ Exploring Azure, CI/CD & System Design  
+- 🎯 Targeting SDE Roles in Product-Based Companies  
 
 ---
 
@@ -58,13 +58,13 @@
 ## 📌 Featured Projects
 
 ### 🔹 ServiceMate (Real-Time Service Booking Platform)
-- Built using **MERN Stack + Socket.io + Redis**
-- Real-time booking & notifications system
-- Scalable backend architecture
+- Built using **MERN Stack + Socket.io + Redis**  
+- Real-time booking & notifications system  
+- Scalable backend architecture  
 
 ### 🔹 Wanderlust (Travel Platform)
-- Full-stack app with authentication & CRUD
-- REST API integration & secure login system
+- Full-stack app with authentication & CRUD  
+- REST API integration & secure login system  
 
 👉 *More projects on my repositories*
 
@@ -81,19 +81,19 @@
 
 ## 🏆 Achievements
 
-- 🥇 Contributor at **GSSoC '24**
-- 🎯 Google Arcade Facilitator Cohort 1
-- 🧘 National-level Yoga Competitor (2nd Place)
-- 🎨 State-level Artist (3rd Place)
+- 🥇 Contributor at **GSSoC '24**  
+- 🎯 Google Arcade Facilitator Cohort 1  
+- 🧘 National-level Yoga Competitor (2nd Place)  
+- 🎨 State-level Artist (3rd Place)  
 
 ---
 
 ## 📈 Current Focus
 
-- 📚 Mastering **DSA (Take U Forward)**
-- 🏗️ Learning **System Design (HLD + LLD)**
-- ☁️ Deploying projects on **Azure**
-- 💡 Building **SDE-level projects**
+- 📚 Mastering **DSA (Take U Forward)**  
+- 🏗️ Learning **System Design (HLD + LLD)**  
+- ☁️ Deploying projects on **Azure**  
+- 💡 Building **SDE-level projects**  
 
 ---
 
