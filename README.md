@@ -1,121 +1,74 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00C9A7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Karthik+Gouda;Full-Stack+Developer;SDE+Aspirant;MERN+Stack+Engineer;Building+Scalable+Systems" />
-</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4F9DDE">Karthik Gouda</span></h1>  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:00C9A7,100:4F9DDE&text=Welcome%20to%20My%20Profile&fontColor=ffffff&fontSize=28" />
-</p>
+<p align="center">  
+💻 Passionate <b>Full-Stack Developer</b> | 🌐 MERN Enthusiast | 🚀 Exploring Cloud & DevOps  
+</p>  
 
-<p align="center">
-  💻 Full-Stack Developer | 🚀 SDE Aspirant | ☁️ Cloud & System Design Enthusiast
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/kartikagouda15">
-    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20Gouda-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+- 👨‍💻 Currently building **MERN stack projects**  
+- 🔭 Exploring **Microsoft Azure, CI/CD, and Microservices**  
+- 🎓 Pursuing **Computer Science @ DR SMCE**  
+- 🌱 Continuous learner, passionate about **scalable applications** and **real-world problem solving**  
+  
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🚀 Full-Stack Developer passionate about building scalable applications  
-- 💻 Strong in MERN Stack & Backend Development  
-- ☁️ Exploring Azure, CI/CD & System Design  
-- 🎯 Targeting SDE Roles in Product-Based Companies  
-
----
-
-## 🚀 What I Bring
-
-✔️ Strong foundation in **Data Structures & Algorithms**  
-✔️ Hands-on experience with **Full-Stack Development**  
-✔️ Built **real-time & production-level projects**  
-✔️ Knowledge of **Cloud Deployment & APIs**  
-✔️ Problem-solving mindset with clean coding practices  
+## 🌐 Connect With Me  
+<p align="center">  
+  <a href="https://instagram.com/karthik_gouda01" target="_blank">  
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>  
+  </a>  
+  <a href="https://linkedin.com/in/kartikagouda15" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>  
+</p>  
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,mysql,python,cpp,git,github,vscode,postman,azure&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 ServiceMate (Real-Time Service Platform)
-- ⚡ MERN + Socket.io + Redis  
-- 🔔 Real-time booking & notifications  
-- 📈 Scalable backend architecture  
-
-### 🔹 Wanderlust (Travel Platform)
-- 🌍 Full-stack web app  
-- 🔐 Secure authentication & APIs  
-- 🧩 CRUD + REST architecture  
+# 💻 Tech Stack  
+<p align="center">  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,mysql,bootstrap,jquery,python,npm" />  
+<br/>  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" />  
+</p>  
 
 ---
 
-## 📊 GitHub 3D Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikgouda15&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgouda15&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikgouda15&theme=tokyonight"/>
-</p>
+## 🪶 Achievements (GSSOC '24)  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90px"/>  
+</p>  
 
 ---
 
-## 🧠 3D Contribution Graph
+# 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikgouda15&theme=tokyonight&hide_border=true&show_icons=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgouda15&theme=tokyonight&hide_border=true" height="150"/>  
+</p>  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikgouda15&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 Contributor at **GSSoC '24**  
-- 🎯 Google Arcade Facilitator  
-- 🥈 National Yoga Competition  
-- 🎨 State-Level Artist  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgouda15&theme=tokyonight&hide_border=true&layout=compact" height="150"/>  
+</p>  
 
 ---
 
-## 📈 Current Focus
-
-- 📚 DSA (Take U Forward)  
-- 🏗️ System Design (HLD + LLD)  
-- ☁️ Azure Deployments  
-- 🚀 Building SDE-level Projects  
+## 🏆 GitHub Trophies  
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikgouda15&theme=radical&no-frame=true&margin-w=5"/>  
+</p>  
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthikgouda15&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I’m actively looking for **Internships & SDE Opportunities** 🚀  
-If you're a recruiter or developer, feel free to connect!
+### ✍️ Random Dev Quote  
+<p align="center">  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>  
+</p>  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:4F9DDE&height=120&section=footer"/>
-</p>
+<p align="center">  
+  🚀 *"Code. Learn. Build. Repeat."* 🚀  
+</p>  
