@@ -1,115 +1,75 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Karthik%20Gouda&fontSize=50&color=0:0f2027,50:203a43,100:2c5364&stroke=ffffff&animation=fadeIn" />
+<h1 align="center">Hi 👋, I'm <span style="color:#4F9DDE">Karthik Gouda</span></h1>  
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+(MERN);Future+Cloud+Architect;System+Design+Enthusiast;Building+Scalable+Real-Time+Apps" />
+<p align="center">  
+💻 Passionate <b>Full-Stack Developer</b> | 🌐 MERN Enthusiast | 🚀 Exploring Cloud & DevOps  
+</p>  
 
-<img src="https://user-images.githubusercontent.com/74038190/216656236-3b35d4ff-9a60-4e7a-b5a3-64f8d3b8c9a2.gif" width="400"/>
-
-</div>
-
----
-
-## 🧠 About Me
-```yaml
-Name: Karthik G
-Role: Full Stack Developer
-Focus: Scalable Systems + Cloud Engineering
-Learning: System Design | Azure | DevOps
-Goal: Crack Top Product-Based Company (SDE Role)
-```
+- 👨‍💻 Currently building **MERN stack projects**  
+- 🔭 Exploring **Microsoft Azure, CI/CD, and Microservices**  
+- 🎓 Pursuing **Computer Science @ DR SMCE**  
+- 🌱 Continuous learner, passionate about **scalable applications** and **real-world problem solving**  
+  
 
 ---
 
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,python,js,html,css,git,docker,aws" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 ServiceMate (Real-Time MERN App)
-- Live booking system using Socket.IO  
-- Redis caching for performance  
-- Scalable architecture  
-
-### 🔹 Emotion-Based Music Recommendation System
-- AI + Voice chatbot integration  
-- Mood detection & smart playlist system  
+## 🌐 Connect With Me  
+<p align="center">  
+  <a href="https://instagram.com/karthik_gouda01" target="_blank">  
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>  
+  </a>  
+  <a href="https://linkedin.com/in/kartikagouda15" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>  
+</p>  
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karthikgouda15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=karthikgouda15&theme=tokyonight&hide_border=true" height="180"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgouda15&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+# 💻 Tech Stack  
+<p align="center">  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,mysql,bootstrap,jquery,python,npm" />  
+<br/>  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws" />  
+</p>  
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 National-Level Artist  
-- 🧘 State-Level Yoga Winner  
-- 🎯 Google Arcade Facilitator  
-- 💻 MERN Stack Developer  
-
----
-
-## 🎯 Current Mission
-
-```diff
-+ Mastering System Design
-+ Building Production-Level MERN Apps
-+ Deploying on Azure
-+ Preparing for SDE Interviews
-```
+## 🪶 Achievements (GSSOC '24)  
+<p align="center">  
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="90px"/>  
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="90px"/>  
+</p>  
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikgouda15&theme=tokyonight&hide_border=true&show_icons=true" height="150"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgouda15&theme=tokyonight&hide_border=true" height="150"/>  
+</p>  
 
-<div align="center">
-
-<a href="https://linkedin.com/in/kartikagouda15">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/karthik_gouda01">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgouda15&theme=tokyonight&hide_border=true&layout=compact" height="150"/>  
+</p>  
 
 ---
 
-## 🧬 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+## 🏆 GitHub Trophies  
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikgouda15&theme=radical&no-frame=true&margin-w=5"/>  
+</p>  
 
 ---
 
-<div align="center">
+### ✍️ Random Dev Quote  
+<p align="center">  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>  
+</p>  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+---
 
-✨ Code. Scale. Repeat. ✨
-
-</div>
+<p align="center">  
+  🚀 *"Code. Learn. Build. Repeat."* 🚀  
+</p>  
