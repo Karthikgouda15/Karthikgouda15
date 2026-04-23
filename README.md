@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Karthik%20Gouda&fontSize=50&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Karthik%20Gouda&fontSize=50&color=0:0f2027,50:203a43,100:2c5364&stroke=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+(MERN);Future+Cloud+Architect;System+Design+Enthusiast;Building+Scalable+Real-Time+Apps" />
 
-<img src="https://user-images.githubusercontent.com/74038190/216656236-3b35d4ff-9a60-4e7a-b5a3-64f8d3b8c9a2.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656236-3b35d4ff-9a60-4e7a-b5a3-64f8d3b8c9a2.gif" width="400"/>
 
 </div>
 
 ---
 
 ## 🧠 About Me
-
-- 🚀 Full-Stack Developer (MERN)
-- ☁️ Learning **Azure, DevOps & System Design**
-- 🎯 Goal: Crack **Top Product-Based Company (SDE)**
-- 💡 Passionate about scalable real-world applications
+```yaml
+Name: Karthik G
+Role: Full Stack Developer
+Focus: Scalable Systems + Cloud Engineering
+Learning: System Design | Azure | DevOps
+Goal: Crack Top Product-Based Company (SDE Role)
+```
 
 ---
 
@@ -29,16 +31,16 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 ServiceMate
-- Real-time booking system (Socket.IO)
-- Redis caching for performance
-- Scalable MERN architecture
+### 🔹 ServiceMate (Real-Time MERN App)
+- Live booking system using Socket.IO  
+- Redis caching for performance  
+- Scalable architecture  
 
-### 🔹 Emotion-Based Music Recommendation
-- AI + Voice chatbot
-- Mood detection system
+### 🔹 Emotion-Based Music Recommendation System
+- AI + Voice chatbot integration  
+- Mood detection & smart playlist system  
 
 ---
 
@@ -46,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthikgouda15&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karthikgouda15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
 <img src="https://streak-stats.demolab.com?user=karthikgouda15&theme=tokyonight&hide_border=true" height="180"/>
 
@@ -63,19 +65,22 @@
 - 🥇 National-Level Artist  
 - 🧘 State-Level Yoga Winner  
 - 🎯 Google Arcade Facilitator  
+- 💻 MERN Stack Developer  
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Mission
 
-- 🔧 MERN Stack Development  
-- ☁️ Azure Cloud Deployment  
-- ⚙️ CI/CD & DevOps  
-- 🧠 System Design  
+```diff
++ Mastering System Design
++ Building Production-Level MERN Apps
++ Deploying on Azure
++ Preparing for SDE Interviews
+```
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -91,8 +96,20 @@
 
 ---
 
+## 🧬 Dev Quote
+
 <div align="center">
 
-✨ Code • Build • Scale • Repeat ✨
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+
+✨ Code. Scale. Repeat. ✨
 
 </div>
